@@ -349,7 +349,8 @@ select {
 }
 
 @media screen and (min-width: 1240px) {
-  .section_mobile {
+  .section_mobile,
+  .contact_us h3{
     display: none;
   }
 
