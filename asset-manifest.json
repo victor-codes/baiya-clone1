@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/baiya-clone/static/css/main.78663249.chunk.css",
+    "main.js": "/baiya-clone/static/js/main.f6032414.chunk.js",
+    "main.js.map": "/baiya-clone/static/js/main.f6032414.chunk.js.map",
+    "runtime-main.js": "/baiya-clone/static/js/runtime-main.2c5740fa.js",
+    "runtime-main.js.map": "/baiya-clone/static/js/runtime-main.2c5740fa.js.map",
+    "static/js/2.f540d736.chunk.js": "/baiya-clone/static/js/2.f540d736.chunk.js",
+    "static/js/2.f540d736.chunk.js.map": "/baiya-clone/static/js/2.f540d736.chunk.js.map",
+    "static/js/3.e938fd81.chunk.js": "/baiya-clone/static/js/3.e938fd81.chunk.js",
+    "static/js/3.e938fd81.chunk.js.map": "/baiya-clone/static/js/3.e938fd81.chunk.js.map",
+    "index.html": "/baiya-clone/index.html",
+    "static/css/main.78663249.chunk.css.map": "/baiya-clone/static/css/main.78663249.chunk.css.map",
+    "static/js/2.f540d736.chunk.js.LICENSE.txt": "/baiya-clone/static/js/2.f540d736.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/baiya-clone/static/media/AtypDisplay-Semibold.8759effa.woff2",
+    "static/media/Saly-11-min.a9134b73.png": "/baiya-clone/static/media/Saly-11-min.a9134b73.png",
+    "static/media/Saly-12-min.a6913f3e.png": "/baiya-clone/static/media/Saly-12-min.a6913f3e.png",
+    "static/media/Saly-13-min.295e0e40.png": "/baiya-clone/static/media/Saly-13-min.295e0e40.png",
+    "static/media/arrow-button.adc28e78.svg": "/baiya-clone/static/media/arrow-button.adc28e78.svg",
+    "static/media/App.css": "/baiya-clone/static/media/background.de075b61.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c5740fa.js",
+    "static/js/2.f540d736.chunk.js",
+    "static/css/main.78663249.chunk.css",
+    "static/js/main.f6032414.chunk.js"
+  ]
+}
